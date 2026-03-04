@@ -1,0 +1,11 @@
+# Credenciais e Sessão (CRÍTICO)
+sessao_estrategia.json
+temp_session.json
+
+# Ambiente Virtual e Cache
+venv/
+__pycache__/
+.pytest_cache/
+
+# Pastas de Downloads
+Meus_Materiais/
