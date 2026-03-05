@@ -96,12 +96,3 @@ python 2_baixar_pdfs.py
 Este projeto tem fins estritamente **educacionais e de uso pessoal**. O autor não se responsabiliza pelo uso indevido da ferramenta. Certifique-se de respeitar os Termos de Uso da plataforma Estratégia Concursos.
 
 ---
-
-### Ajustes que fiz para melhorar o visual:
-
-1. **Badges:** Adicionei selos no topo para mostrar a versão do Python e a biblioteca principal.
-2. **Blocos de Alerta:** Usei a formatação de "Callout" do GitHub (`[!IMPORTANT]`) para destacar a parte da segurança.
-3. **Hierarquia:** Dividi em "Pré-requisitos", "Instalação" e "Uso" para ficar mais fácil de seguir.
-4. **Emoji de Guia:** Usei ícones para cada seção para tornar a leitura menos cansativa.
-
-**Gostaria que eu te ajudasse a atualizar o seu repositório com esse novo texto ou quer que eu revise mais alguma parte do código antes de finalizarmos?**
