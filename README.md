@@ -1,7 +1,3 @@
-Aqui está uma versão do seu `README.md` com uma formatação muito mais profissional, organizada e atraente para o GitHub. Usei ícones, blocos de código claros e uma estrutura que facilita a leitura rápida para qualquer pessoa que encontrar o seu projeto.
-
----
-
 # 🦉 Estratégia PDF Downloader
 
 Script automatizado em **Python** para facilitar a organização e o download de materiais (PDFs - Versão Original) da plataforma **Estratégia Concursos**.
